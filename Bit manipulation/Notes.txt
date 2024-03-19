@@ -1,0 +1,44 @@
+# 1's compliment
+    - flip all the values
+    - 1's compliment of 100101 is 011010
+
+# 2's compliment
+    - flip all the values
+    - add 1 to it
+    - 2's compliment of 100101 is
+        011010
+       +000001
+       =011011
+
+# AND (&)
+    1 & 1 = 1
+    1 & 0 = 0
+    0 & 1 = 0       
+    0 & 0 = 0
+
+# OR (|)
+    1 & 1 = 1
+    1 & 0 = 1
+    0 & 1 = 1       
+    0 & 0 = 0
+
+# XOR (^)
+    1 & 1 = 0
+    1 & 0 = 1
+    0 & 1 = 1       
+    0 & 0 = 0        
+
+# >> (Right shift)
+    - 13 >> 1
+        01101 >> 1 = 00110   
+    - 1101 >> 4 = 0000  
+    - Formula(x >> k) = x/(2^k)
+
+# << (Left compliment)
+    - 13 << 1
+        01101 << 1 = 11010   
+    - 1101 << 4 = 11010000  
+    - Formula(x << k) = x*(2^k)
+
+# NOT (~)
+    
