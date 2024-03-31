@@ -1,0 +1,7 @@
+# Pattern of these topics
+    - Constant Window
+    - Longest subarray/substring where <condition>
+    - Number of Subarrays where <Condition>
+    - Shortest / Minimum window <condition>
+
+# Any question which involves max/min substring/subarray we should think of using 2 pointers/ sliding window   
